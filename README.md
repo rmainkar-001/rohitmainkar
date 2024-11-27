@@ -1,39 +1,67 @@
-# SweetPOS: Billing and Inventory Management System
+# 👋 Hi, I'm Rohit Mainkar  
+**React Developer | Front-End Developer**  
 
-## Overview
-**SweetPOS** is a billing and inventory management solution for sweet shops and franchises. It supports real-time invoice generation, dynamic discounting, and GST calculations.
+🚀 **Passionate about building scalable, high-performance web and mobile applications.**  
+🌟 **Skilled in React.js, React Native, Redux, and UI/UX design.**  
 
-## My Role
-- Spearheaded the front-end development using **React.js** for the web application.
-- Designed and developed responsive UI components with Material UI.
-- Optimized performance by reducing loading times by 35% through code-splitting and lazy loading.
-- Collaborated with backend developers to integrate REST APIs for real-time data synchronization.
+📧 Email: r.mainkar50@gmail.com  
+📞 Phone: +91 9850111759  
+🌐 Portfolio: [GitHub Profile](https://github.com/rohitmainkar)  
 
-## Technologies
-- **Frontend**: React.js, Redux
-- **Mobile**: React Native
-- **Backend**: Python
-- **Database**: MySQL
+---
 
-## Features
-- Billing system with real-time dynamic calculations.
-- Inventory management with GST compliance.
-- Offline mode for mobile applications.
+## 🛠 **Technologies & Skills**  
+- **Frontend**: React.js, Redux, JavaScript (ES6+), Material UI  
+- **Mobile Development**: React Native  
+- **Backend**: Python, MySQL  
+- **Tools**: Git, VSCode, Webpack, Babel  
 
-## Screenshots
-![Dashboard](assets/Dashboard _ FoodERP 2.0.html)
-*Dashboard interface with real-time metrics.*
+---
 
-![Invoice Generation](assets/sweetpos_sales_screen.png)
-*Invoice page with GST and discount calculations.*
+## 📈 **Stats & Achievements**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmainkar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmainkar&layout=compact&theme=radical)  
 
-![Inventory Management](assets/inventory.png)
-*Inventory overview with stock tracking.*
+---
 
-## Key Highlights
-- Enhanced user experience with a mobile-first approach.
-- Improved maintainability by implementing a modular component structure.
-- Reduced system downtime with real-time error handling and notifications.
+## 🌟 **Featured Projects**  
+### **SweetPOS: Billing and Inventory Management System**  
+- **Description**: A retail management tool tailored for sweet shops and dairy stores.  
+- **My Role**: Team lead, developed front-end with React.js, and optimized application performance.  
+- **Technologies**: React.js, Redux, React Native, MySQL.  
+- **Features**:  
+  - Real-time billing with GST compliance.  
+  - Dynamic inventory and stock tracking.  
+  - Mobile app for offline billing.  
+- **[Project Details](https://github.com/rohitmainkar/sweetpos-portfolio)**  
 
-## Disclaimer
-This project was developed as part of my role at **Attrib Solutions Pvt Ltd** and all rights belong to the company.
+---
+
+### **FoodERP 2.1**  
+- **Description**: Supply chain management system for food businesses.  
+- **Technologies**: React.js, Redux, MySQL.  
+- **Features**: Advanced search, logistics updates, and responsive UI.  
+
+---
+
+### **Supplier Mobile App**  
+- **Description**: A mobile app for supplier management with offline support.  
+- **Technologies**: React Native, Redux, Axios.  
+- **Features**:  
+  - Offline mode for low-connectivity zones.  
+  - Real-time supplier data sync.  
+
+---
+
+## 📝 **Work Experience**  
+### **React Developer at Attrib Solutions Pvt Ltd**  
+- Lead front-end developer with a focus on performance optimization.  
+- Successfully led a team for **SweetPOS**, reducing load times by 35%.  
+- Collaborated in Agile sprints to deliver scalable features on time.  
+
+---
+
+### 🌍 Let's Connect!  
+📧 Email: r.mainkar50@gmail.com  
+📞 Phone: +91 9850111759  
+🌐 [GitHub](https://github.com/rohitmainkar) | [LinkedIn](#)  
