@@ -41,6 +41,7 @@
 - **Description**: Supply chain management system for food businesses.  
 - **Technologies**: React.js, Redux, MySQL.  
 - **Features**: Advanced search, logistics updates, and responsive UI.  
+- **[Project Link](https://cbmfooderp.com/login)**  
 
 ---
 
