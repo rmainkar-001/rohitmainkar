@@ -6,7 +6,7 @@
 
 📧 **Email**: r.mainkar50@gmail.com  
 📞 **Phone**: +91 9850111759  
-🌐 **Portfolio**: [GitHub Profile](https://github.com/rohitmainkar)
+🌐 **Portfolio**: [GitHub Profile](https://github.com/rmainkar-001)
 
 ---
 
@@ -23,8 +23,8 @@
 ---
 
 ## 📈 **GitHub Stats & Achievements**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmainkar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmainkar&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmainkar-001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmainkar-001&layout=compact&theme=radical)
 
 ---
 
